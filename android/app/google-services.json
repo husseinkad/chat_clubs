@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038418420793",
+    "project_id": "chat-clubs-50a7f",
+    "storage_bucket": "chat-clubs-50a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038418420793:android:1d059f8602f6693fe6d9e8",
+        "android_client_info": {
+          "package_name": "com.husseindev.chatclubs.chat_clubs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038418420793-lnu3de5e8si1ltgp1ul053kl0a0f3qig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnZ9EzH0ikVxieRmFl-SOAxvZNh2tbjBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038418420793-lnu3de5e8si1ltgp1ul053kl0a0f3qig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
